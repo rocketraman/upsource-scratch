@@ -1,1 +1,2 @@
 New file on master
+New line on master
